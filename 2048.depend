@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1497920802 source:f:\c++\2048\console.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	"Matrix.h"
+
+1497882709 f:\c++\2048\matrix.h
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
+1497921194 source:f:\c++\2048\main.cpp
+	"Matrix.h"
+	<math.h>
+	<iomanip>
+	<string.h>
+
+1497921194 source:f:\c++\2048\matrix.cpp
+	"Matrix.h"
+	<math.h>
+	<iomanip>
+	<string.h>
+
